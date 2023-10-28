@@ -1,5 +1,8 @@
 # Technical Test
 
+## Study Case
+* [Study Case](https://github.com/eigen3dev/fullstack-test-case)
+
 ## Requirements
 
 - [ ]  Node version 18 +
