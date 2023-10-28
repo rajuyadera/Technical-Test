@@ -9,6 +9,7 @@ const app = express()
 
 try {
     db.authenticate()
+    db.sync() // if fase development just command this line
     console.log("Database Running")
 } catch (error) {
     console.log(error)
