@@ -98,10 +98,6 @@ npm run start / npm run dev
 cd client
 npm run dev
 ```
-7. Access via url
-```JS
-localhost:port
-```
 
 ## Contact
 if error or problem with this repository contact me
